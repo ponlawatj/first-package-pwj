@@ -1,7 +1,7 @@
 {
   "name": "first-package-pwj",
   "main": "./lib/first-package-pwj",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [
   ],

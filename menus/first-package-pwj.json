@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle first-package-pwj",
+        "command": "first-package-pwj:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "first-package-pwj",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "first-package-pwj:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
